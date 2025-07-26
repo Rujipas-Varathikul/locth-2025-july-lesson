@@ -5,3 +5,7 @@ This repository is used for collecting teaching materials for Python Level 1 Cou
 1. comment
 2. print function
 3. Basic Data Types
+4. Variables
+5. How to receive input?
+6. Arithmetic Operators
+7. Variable Adjustment
