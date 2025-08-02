@@ -4,10 +4,6 @@
 # 2. How to receive input?                       #
 # 3. Arithmetic Operators                        #
 # 4. Variable Adjustment                         #
-# 5. Comparison Operators                        #
-# 6. Boolean Operators                           #
-# 7. Basic Logic                                 #
-# 8. Built-In Python Functions for Numbers       #
 ##################################################
 
 # syntax of variable => variable_name = value

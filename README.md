@@ -9,3 +9,8 @@ This repository is used for collecting teaching materials for Python Level 1 Cou
 5. How to receive input?
 6. Arithmetic Operators
 7. Variable Adjustment
+8. Comparison Operators
+9. Boolean Operators
+10. Basic Logic
+11. Built-In Python Functions for Numbers
+12. if, else, elif statement   
