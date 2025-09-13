@@ -31,11 +31,11 @@ string = 'keyboard '
 # 'apple' => 0, 1, ... ,4 => range(5)
 # 'school' => 0, 1, ... , 5 => range(6)
 # 'applebobo' => 0, 1, ... , 8 => range(9)
-# for index in range(len(string)): # 0, 1, 2, ..., 8
-#     print(index, string[index])
+for index in range(len(string)): # 0, 1, 2, ..., 8
+    print(index, string[index])
 # 'apple'[3]
-# for character in string:
-#     print(character)
+for character in string:
+    print(character)
 
 # character = 'k
 # ...
