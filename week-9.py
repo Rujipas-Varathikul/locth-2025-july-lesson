@@ -75,4 +75,3 @@ for index, product in enumerate(example):
 # print(index, product)
 # enumerate -> 1 => index, 'meat' => product
 # print(index, product)
-

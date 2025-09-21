@@ -3,3 +3,9 @@
 # k = 6 -> 0, 1, 2, 3, 4, 6 - 1 -> range(6)
 # k = 21 ->0, 1, ..., 21 - 1 -> range(21) 
 # k -> 0, 1, 2, ..., k-1 -> range(k)
+
+string = input()
+num_char = int(input())
+
+for index in range(num_char):
+    print(string[index])
